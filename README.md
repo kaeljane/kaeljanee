@@ -5,3 +5,4 @@
     <img alt="Meu Terminal GitHub" src="./dark_mode.svg">
   </picture>
 </p>
+ 
